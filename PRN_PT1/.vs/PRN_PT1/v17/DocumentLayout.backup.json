@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN232\\Code\\PRN_PT1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{586D7DBD-9212-4436-9D65-B243697429DD}|PRN_PT1\\PRN_PT1.csproj|d:\\prn232\\code\\prn_pt1\\prn_pt1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586D7DBD-9212-4436-9D65-B243697429DD}|PRN_PT1\\PRN_PT1.csproj|solutionrelative:prn_pt1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586D7DBD-9212-4436-9D65-B243697429DD}|PRN_PT1\\PRN_PT1.csproj|d:\\prn232\\code\\prn_pt1\\prn_pt1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586D7DBD-9212-4436-9D65-B243697429DD}|PRN_PT1\\PRN_PT1.csproj|solutionrelative:prn_pt1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\PRN232\\Code\\PRN_PT1\\PRN_PT1\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "PRN_PT1\\Models\\Order.cs",
+              "ToolTip": "D:\\PRN232\\Code\\PRN_PT1\\PRN_PT1\\Models\\Order.cs",
+              "RelativeToolTip": "PRN_PT1\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:39:13.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\PRN232\\Code\\PRN_PT1\\PRN_PT1\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "PRN_PT1\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\PRN232\\Code\\PRN_PT1\\PRN_PT1\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "PRN_PT1\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwC0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:51:22.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
