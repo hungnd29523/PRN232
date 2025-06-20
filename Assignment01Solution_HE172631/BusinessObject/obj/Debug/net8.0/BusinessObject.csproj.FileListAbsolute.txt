@@ -1,0 +1,14 @@
+D:\PRN232\Code\Assignment01Solution_HE172631\BusinessObject\bin\Debug\net8.0\BusinessObject.deps.json
+D:\PRN232\Code\Assignment01Solution_HE172631\BusinessObject\bin\Debug\net8.0\BusinessObject.runtimeconfig.json
+D:\PRN232\Code\Assignment01Solution_HE172631\BusinessObject\bin\Debug\net8.0\BusinessObject.dll
+D:\PRN232\Code\Assignment01Solution_HE172631\BusinessObject\bin\Debug\net8.0\BusinessObject.pdb
+D:\PRN232\Code\Assignment01Solution_HE172631\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.AssemblyReference.cache
+D:\PRN232\Code\Assignment01Solution_HE172631\BusinessObject\obj\Debug\net8.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN232\Code\Assignment01Solution_HE172631\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfoInputs.cache
+D:\PRN232\Code\Assignment01Solution_HE172631\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfo.cs
+D:\PRN232\Code\Assignment01Solution_HE172631\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\PRN232\Code\Assignment01Solution_HE172631\BusinessObject\obj\Debug\net8.0\BusinessObject.dll
+D:\PRN232\Code\Assignment01Solution_HE172631\BusinessObject\obj\Debug\net8.0\refint\BusinessObject.dll
+D:\PRN232\Code\Assignment01Solution_HE172631\BusinessObject\obj\Debug\net8.0\BusinessObject.pdb
+D:\PRN232\Code\Assignment01Solution_HE172631\BusinessObject\obj\Debug\net8.0\BusinessObject.genruntimeconfig.cache
+D:\PRN232\Code\Assignment01Solution_HE172631\BusinessObject\obj\Debug\net8.0\ref\BusinessObject.dll

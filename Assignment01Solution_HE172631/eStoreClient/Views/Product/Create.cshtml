@@ -1,0 +1,59 @@
+﻿@model  BusinessObject.Models.Product;
+
+<h1>Create</h1>
+
+@if (ViewData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger" role="alert">@ViewData["ErrorMessage"]</div>
+}
+@if (ViewData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success" role="alert">@ViewData["SuccessMessage"]</div>
+}
+
+<h4>Product</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group mb-2">
+                <label asp-for="ProductName" class="control-label mb-1">Name</label>
+                <input asp-for="ProductName" class="form-control" />
+                <span asp-validation-for="ProductName" class="text-danger"></span>
+            </div>
+      
+            <div class="form-group mb-2">
+                <label asp-for="UnitPrice" class="control-label mb-1">Unit price</label>
+                <input asp-for="UnitPrice" class="form-control" />
+                <span asp-validation-for="UnitPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-2">
+                <label asp-for="UnitsInStock" class="control-label mb-1">Units in stock</label>
+                <input asp-for="UnitsInStock" class="form-control" />
+                <span asp-validation-for="UnitsInStock" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-2">
+                <label asp-for="CategoryId" class="control-label mb-1">Category</label>
+                <select asp-for="CategoryId" class ="form-control">
+                    @foreach (var std in (List< BusinessObject.Models.Category>)ViewData["Categories"])
+                    {
+                        <option value="@std.CategoryId">@std.CategoryName</option>
+                    }
+                </select>
+            </div>
+         
+            <div class="form-group mb-2">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
