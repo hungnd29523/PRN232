@@ -1,0 +1,40 @@
+﻿@page
+@model MICHO.Web.Pages.Orders.DashboardModel
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<h2>📊 Analytics Dashboard</h2>
+
+<h3>🧾 Sales Report by Date</h3>
+<table class="table table-bordered">
+    <thead>
+        <tr><th>Date</th><th>Total Orders</th><th>Total Revenue (VND)</th></tr>
+    </thead>
+    <tbody>
+        @foreach (var report in Model.SalesReport)
+        {
+            <tr>
+                <td>@report.Date.ToString("dd/MM/yyyy")</td>
+                <td>@report.TotalOrders</td>
+                <td>@string.Format("{0:N0}", report.TotalRevenue)</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h3>⏰ Peak Order Hours</h3>
+<ul>
+    @foreach (var hour in Model.PeakHours)
+    {
+        <li>@hour.Hour:00 - @hour.Count orders</li>
+    }
+</ul>
+
+<h3>🍦 Best Selling Ice Cream</h3>
+<ul>
+    @foreach (var item in Model.BestSellers)
+    {
+        <li>@item.IceName - @item.Sold sold</li>
+    }
+</ul>

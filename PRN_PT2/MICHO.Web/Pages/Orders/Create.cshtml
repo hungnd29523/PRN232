@@ -1,0 +1,40 @@
+﻿@page
+@model MICHO.Web.Pages.Orders.CreateModel
+
+<form method="post">
+    <h3>Customer Info</h3>
+    <label>Name:</label>
+    <input asp-for="Customer.Name" class="form-control" />
+    <label>Address:</label>
+    <input asp-for="Customer.Address" class="form-control" />
+    <label>Contact:</label>
+    <input asp-for="Customer.Contact" class="form-control" />
+
+    <h3>Choose Ice Cream</h3>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Flavor</th>
+                <th>Price</th>
+                <th>Quantity</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.IceCreams.Count; i++)
+            {
+                <tr>
+                    <td>@Model.IceCreams[i].Name</td>
+                    <td>@Model.IceCreams[i].Flavor</td>
+                    <td>@Model.IceCreams[i].Price</td>
+                    <td>
+                        <input type="hidden" asp-for="SelectedItems[@i].IceId" value="@Model.IceCreams[i].IceId" />
+                        <input asp-for="SelectedItems[@i].Quantity" class="form-control" />
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <button type="submit" class="btn btn-success">Place Order</button>
+</form>

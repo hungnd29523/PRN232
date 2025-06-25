@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN232\\Code\\PRN_PT2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A031B0C2-0BB3-4863-8336-C68AD69BD19E}|MICHO.Web\\MICHO.Web.csproj|d:\\prn232\\code\\prn_pt2\\micho.web\\pages\\orders\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A031B0C2-0BB3-4863-8336-C68AD69BD19E}|MICHO.Web\\MICHO.Web.csproj|solutionrelative:micho.web\\pages\\orders\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A031B0C2-0BB3-4863-8336-C68AD69BD19E}|MICHO.Web\\MICHO.Web.csproj|d:\\prn232\\code\\prn_pt2\\micho.web\\pages\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A031B0C2-0BB3-4863-8336-C68AD69BD19E}|MICHO.Web\\MICHO.Web.csproj|solutionrelative:micho.web\\pages\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A031B0C2-0BB3-4863-8336-C68AD69BD19E}|MICHO.Web\\MICHO.Web.csproj|d:\\prn232\\code\\prn_pt2\\micho.web\\pages\\orders\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A031B0C2-0BB3-4863-8336-C68AD69BD19E}|MICHO.Web\\MICHO.Web.csproj|solutionrelative:micho.web\\pages\\orders\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A031B0C2-0BB3-4863-8336-C68AD69BD19E}|MICHO.Web\\MICHO.Web.csproj|d:\\prn232\\code\\prn_pt2\\micho.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A031B0C2-0BB3-4863-8336-C68AD69BD19E}|MICHO.Web\\MICHO.Web.csproj|solutionrelative:micho.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F8F31D-E12B-491D-A7F9-17000725655E}|MICHO.API\\MICHO.API.csproj|d:\\prn232\\code\\prn_pt2\\micho.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F8F31D-E12B-491D-A7F9-17000725655E}|MICHO.API\\MICHO.API.csproj|solutionrelative:micho.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A031B0C2-0BB3-4863-8336-C68AD69BD19E}|MICHO.Web\\MICHO.Web.csproj|d:\\prn232\\code\\prn_pt2\\micho.web\\pages\\orders\\invoice.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A031B0C2-0BB3-4863-8336-C68AD69BD19E}|MICHO.Web\\MICHO.Web.csproj|solutionrelative:micho.web\\pages\\orders\\invoice.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A031B0C2-0BB3-4863-8336-C68AD69BD19E}|MICHO.Web\\MICHO.Web.csproj|d:\\prn232\\code\\prn_pt2\\micho.web\\pages\\orders\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A031B0C2-0BB3-4863-8336-C68AD69BD19E}|MICHO.Web\\MICHO.Web.csproj|solutionrelative:micho.web\\pages\\orders\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A031B0C2-0BB3-4863-8336-C68AD69BD19E}|MICHO.Web\\MICHO.Web.csproj|d:\\prn232\\code\\prn_pt2\\micho.web\\pages\\orders\\invoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A031B0C2-0BB3-4863-8336-C68AD69BD19E}|MICHO.Web\\MICHO.Web.csproj|solutionrelative:micho.web\\pages\\orders\\invoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A031B0C2-0BB3-4863-8336-C68AD69BD19E}|MICHO.Web\\MICHO.Web.csproj|d:\\prn232\\code\\prn_pt2\\micho.web\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A031B0C2-0BB3-4863-8336-C68AD69BD19E}|MICHO.Web\\MICHO.Web.csproj|solutionrelative:micho.web\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Invoice.cshtml",
+              "DocumentMoniker": "D:\\PRN232\\Code\\PRN_PT2\\MICHO.Web\\Pages\\Orders\\Invoice.cshtml",
+              "RelativeDocumentMoniker": "MICHO.Web\\Pages\\Orders\\Invoice.cshtml",
+              "ToolTip": "D:\\PRN232\\Code\\PRN_PT2\\MICHO.Web\\Pages\\Orders\\Invoice.cshtml",
+              "RelativeToolTip": "MICHO.Web\\Pages\\Orders\\Invoice.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T15:52:13.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\PRN232\\Code\\PRN_PT2\\MICHO.Web\\Pages\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "MICHO.Web\\Pages\\Orders\\Create.cshtml",
+              "ToolTip": "D:\\PRN232\\Code\\PRN_PT2\\MICHO.Web\\Pages\\Orders\\Create.cshtml",
+              "RelativeToolTip": "MICHO.Web\\Pages\\Orders\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T15:49:52.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\PRN232\\Code\\PRN_PT2\\MICHO.Web\\Pages\\Orders\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "MICHO.Web\\Pages\\Orders\\Create.cshtml.cs",
+              "ToolTip": "D:\\PRN232\\Code\\PRN_PT2\\MICHO.Web\\Pages\\Orders\\Create.cshtml.cs",
+              "RelativeToolTip": "MICHO.Web\\Pages\\Orders\\Create.cshtml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:49:53.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN232\\Code\\PRN_PT2\\MICHO.Web\\Program.cs",
+              "RelativeDocumentMoniker": "MICHO.Web\\Program.cs",
+              "ToolTip": "D:\\PRN232\\Code\\PRN_PT2\\MICHO.Web\\Program.cs",
+              "RelativeToolTip": "MICHO.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:49:13.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\PRN232\\Code\\PRN_PT2\\MICHO.Web\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MICHO.Web\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\PRN232\\Code\\PRN_PT2\\MICHO.Web\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MICHO.Web\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T04:51:23.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Invoice.cshtml.cs",
+              "DocumentMoniker": "D:\\PRN232\\Code\\PRN_PT2\\MICHO.Web\\Pages\\Orders\\Invoice.cshtml.cs",
+              "RelativeDocumentMoniker": "MICHO.Web\\Pages\\Orders\\Invoice.cshtml.cs",
+              "ToolTip": "D:\\PRN232\\Code\\PRN_PT2\\MICHO.Web\\Pages\\Orders\\Invoice.cshtml.cs",
+              "RelativeToolTip": "MICHO.Web\\Pages\\Orders\\Invoice.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T04:49:32.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\PRN232\\Code\\PRN_PT2\\MICHO.API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "MICHO.API\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\PRN232\\Code\\PRN_PT2\\MICHO.API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "MICHO.API\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAmwGcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T04:49:08.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cshtml.cs",
+              "DocumentMoniker": "D:\\PRN232\\Code\\PRN_PT2\\MICHO.Web\\Pages\\Orders\\Dashboard.cshtml.cs",
+              "RelativeDocumentMoniker": "MICHO.Web\\Pages\\Orders\\Dashboard.cshtml.cs",
+              "ToolTip": "D:\\PRN232\\Code\\PRN_PT2\\MICHO.Web\\Pages\\Orders\\Dashboard.cshtml.cs",
+              "RelativeToolTip": "MICHO.Web\\Pages\\Orders\\Dashboard.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T04:49:00.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\PRN232\\Code\\PRN_PT2\\MICHO.Web\\Pages\\Orders\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "MICHO.Web\\Pages\\Orders\\Dashboard.cshtml",
+              "ToolTip": "D:\\PRN232\\Code\\PRN_PT2\\MICHO.Web\\Pages\\Orders\\Dashboard.cshtml",
+              "RelativeToolTip": "MICHO.Web\\Pages\\Orders\\Dashboard.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T04:48:53.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

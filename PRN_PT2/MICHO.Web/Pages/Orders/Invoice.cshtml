@@ -1,0 +1,10 @@
+﻿@page "{id:int}"
+@model MICHO.Web.Pages.Orders.InvoiceModel
+
+<h2>Invoice for Order #@Model.OrderID</h2>
+<div>@Html.Raw(Model.InvoiceHtml)</div>
+
+<form method="post" asp-page-handler="Export">
+    <input type="hidden" name="id" value="@Model.OrderID" />
+    <button type="submit" class="btn btn-primary">Export to Excel</button>
+</form>
